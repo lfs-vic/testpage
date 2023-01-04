@@ -21712,7 +21712,7 @@ cr.getObjectRefTable = function () { return [
 	cr.system_object.prototype.cnds.OnLayoutStart,
 	cr.plugins_.Rex_CSV2Array.prototype.acts.CSV2Array,
 	cr.plugins_.Sprite.prototype.acts.SetEffectEnabled,
-	cr.plugins_.Mouse.prototype.cnds.OnObjectClicked,
+	cr.plugins_.rex_TouchWrap.prototype.cnds.OnTouchObject,
 	cr.system_object.prototype.acts.SetVar,
 	cr.system_object.prototype.exps.round,
 	cr.system_object.prototype.exps.random,
@@ -21726,10 +21726,11 @@ cr.getObjectRefTable = function () { return [
 	cr.system_object.prototype.cnds.Else,
 	cr.plugins_.Arr.prototype.acts.SetInstanceVar,
 	cr.plugins_.Sprite.prototype.acts.SetInstanceVar,
-	cr.plugins_.Touch.prototype.cnds.OnTouchObject,
 	cr.plugins_.Sprite.prototype.cnds.IsVisible,
 	cr.plugins_.Sprite.prototype.acts.AddInstanceVar,
 	cr.system_object.prototype.exps.dt,
-	cr.plugins_.Sprite.prototype.acts.SetEffectParam
+	cr.plugins_.Sprite.prototype.acts.SetEffectParam,
+	cr.plugins_.Mouse.prototype.cnds.OnObjectClicked,
+	cr.plugins_.Touch.prototype.cnds.OnTouchObject
 ];};
 
