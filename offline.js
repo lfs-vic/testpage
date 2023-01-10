@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1672820319,
+	"version": 1673333000,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -21,6 +21,6 @@
 		"icon-128.png",
 		"icon-256.png",
 		"loading-logo.png",
-		"cavilant.otf"
+		"montserrat-extrabold.ttf"
 	]
 }
