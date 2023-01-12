@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1673333000,
+	"version": 1673503079,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -21,6 +21,10 @@
 		"icon-128.png",
 		"icon-256.png",
 		"loading-logo.png",
-		"montserrat-extrabold.ttf"
+		"montserrat.css",
+		"montserrat-extrabold-webfont.eot",
+		"montserrat-extrabold-webfont.svg",
+		"montserrat-extrabold-webfont.ttf",
+		"montserrat-extrabold-webfont.woff"
 	]
 }
